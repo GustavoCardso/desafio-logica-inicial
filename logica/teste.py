@@ -1,0 +1,2 @@
+tempo = ['sol', 'chuva', 'neve']
+

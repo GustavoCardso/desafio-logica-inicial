@@ -1,0 +1,6 @@
+nome = input('digite seu nome')
+altura = int(input('digite sua altura'))
+peso = int(input('digite seu peso'))
+imc = peso // (altura * altura)
+linha = (f'{nome} tem {altura} de altura  e {peso} quilos e o seu imc é {imc}')
+print(linha) 
